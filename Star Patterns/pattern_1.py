@@ -12,6 +12,4 @@ def simple_star(n):
             print("*",end="")
         print()
 
-    else:
-        print("Think logic agin......")
 simple_star(5)
