@@ -1,10 +1,10 @@
 <h1>Project Observations & Insights – Cuisines Dataset</h1>
 
 <h2>1.Dataset Overview:</h2>
-
-The dataset contains restaurant-level data, including country, city, cuisine types, ratings, votes, and price range.
-
-It was cleaned by removing duplicates and rows with missing values to ensure accurate analysis.
+<ul>
+  <li>The dataset contains restaurant-level data, including country, city, cuisine types, ratings, votes, and price range.</li>
+  <li>It was cleaned by removing duplicates and rows with missing values to ensure accurate analysis.</li>
+</ul>
 
 <h2>2.Country Mapping:</h2>
 
