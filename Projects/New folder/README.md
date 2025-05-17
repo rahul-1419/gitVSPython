@@ -21,50 +21,55 @@
 </ul>
 
 <h2>4. Top Countries by Restaurant Count:</h2>
-
-India has the highest number of restaurants listed, followed by the USA and the UAE.
-
-This indicates the dataset is heavily skewed towards Indian restaurants.
+<ul>
+  <li>India has the highest number of restaurants listed, followed by the USA and the UAE.</li>
+  <li>This indicates the dataset is heavily skewed towards Indian restaurants.</li>
+</ul>
 
 <h2>5.Top Cities by Restaurant Count:</h2>
-
-New Delhi, Gurgaon, and Noida are among the top cities, again indicating India’s dominance in the dataset.
+<ul>
+  <li>New Delhi, Gurgaon, and Noida are among the top cities, again indicating India’s dominance in the dataset.</li>
+</ul>
 
 <h2>6.Popular Cuisines:</h2>
-
-North Indian, Chinese, and Fast Food are the most frequently served cuisines.
+<ul>
+  <li>North Indian, Chinese, and Fast Food are the most frequently served cuisines.</li>
+</ul>
 
 <h2>7.Currencies Used:</h2>
-
-Multiple currencies are present, showing this dataset is global.
-
-Indian Rupee (INR), Emirati Dirham (AED), and US Dollar (USD) are commonly used.
+<ul>
+  <li>Multiple currencies are present, showing this dataset is global.</li>
+  <li>Indian Rupee (INR), Emirati Dirham (AED), and US Dollar (USD) are commonly used.</li>
+</ul>
 
 <h2>8.Restaurant Ratings:</h2>
-
-Most restaurants have an average rating between 3.0 and 4.5.
-
-Many entries had a 0 rating, likely due to lack of user reviews. These were removed for accurate analysis.
+<ul>
+  <li>Most restaurants have an average rating between 3.0 and 4.5.</li>
+  <li>Many entries had a 0 rating, likely due to lack of user reviews. These were removed for accurate analysis.</li>
+</ul>
 
 <h2>9.Average Ratings by Category:</h2>
-
-Country: Some countries have better average ratings than others. For example, Singapore and New Zealand showed high average ratings.
-
-City: Cities like Wellington and Warangal showed higher average ratings.
-
-Cuisines: European, Japanese, and Lebanese cuisines had higher average ratings compared to others.
-
-Currency: Currency-wise, some countries with strong currencies tended to have slightly better ratings, possibly indicating better services or experiences.
+<ul>
+  <li>Country: Some countries have better average ratings than others. For example, Singapore and New Zealand showed high average ratings.</li>
+  <li>City: Cities like Wellington and Warangal showed higher average ratings.</li>
+  <li>Cuisines: European, Japanese, and Lebanese cuisines had higher average ratings compared to others.</li>
+  <li>Currency: Currency-wise, some countries with strong currencies tended to have slightly better ratings, possibly indicating better services or experiences</li>
+</ul>
 
 <h2>10.Discrete Features Analysis:</h2>
+<ul>
+  <li>Has Table Booking:</li>
+    <ul>
+      <li>Most restaurants do not offer table booking.</li>
+    </ul>
+</ul>
 
-Has Table Booking:
-
-Most restaurants do not offer table booking.
-
-Has Online Delivery:
-
-A good portion offers online delivery, especially in India.
+<ul>
+  <li>Has Online Delivery:</li>
+  <ul>
+    <li>A good portion offers online delivery, especially in India.</li>
+  </ul>
+</ul>
 
 Is Delivering Now:
 
