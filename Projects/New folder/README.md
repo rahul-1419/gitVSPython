@@ -1,24 +1,26 @@
 <h1>Project Observations & Insights – Cuisines Dataset</h1>
 
-<h2>1.Dataset Overview:</h2>
+<h2>1. Dataset Overview:</h2>
 <ul>
   <li>The dataset contains restaurant-level data, including country, city, cuisine types, ratings, votes, and price range.</li>
   <li>It was cleaned by removing duplicates and rows with missing values to ensure accurate analysis.</li>
 </ul>
 
 <h2>2.Country Mapping:</h2>
+<ul>
+  <li>The dataset originally used numerical country codes. These were mapped to actual country names (e.g., 1 → India, 216 → US), helping in more readable and interpretable visualizations.</li>
+</ul>
 
-The dataset originally used numerical country codes. These were mapped to actual country names (e.g., 1 → India, 216 → US), helping in more readable and interpretable visualizations.
+<h2>3. Feature Categorization:</h2>
+<ul>
+  <li>The columns were categorized into:</li>
+  <ul>
+    <li>Categorical Features: Country_name, City, Restaurant Name, Cuisines, Currency</li>
+    <li>Numerical Features: Votes, Aggregate rating, Price range</li>
+  </ul>
+</ul>
 
-<h2>3.Feature Categorization:</h2>
-
-The columns were categorized into:
-
-Categorical Features: Country_name, City, Restaurant Name, Cuisines, Currency
-
-Numerical Features: Votes, Aggregate rating, Price range
-
-<h2>4.Top Countries by Restaurant Count:</h2>
+<h2>4. Top Countries by Restaurant Count:</h2>
 
 India has the highest number of restaurants listed, followed by the USA and the UAE.
 
