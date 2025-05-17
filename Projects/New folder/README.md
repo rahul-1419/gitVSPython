@@ -71,17 +71,22 @@
   </ul>
 </ul>
 
-Is Delivering Now:
+<ul>
+  <li>Is Delivering Now:</li>
+  <ul>
+    <li>Fewer restaurants are marked as currently delivering.</li>
+  </ul>
+</ul>
 
-Fewer restaurants are marked as currently delivering.
-
-Rating Color and Text:
-
-Rating colors (green, orange, red) and texts (Excellent, Very Good, Good, etc.) give a quick glance into restaurant quality.
-
-Majority fall under "Good" or "Very Good" categories.
+<ul>
+  <li>Rating Color and Text:</li>
+  <ul>
+    <li>Rating colors (green, orange, red) and texts (Excellent, Very Good, Good, etc.) give a quick glance into restaurant quality.</li>
+    <li>Majority fall under "Good" or "Very Good" categories.</li>
+  </ul>
+</ul>
 
 <h2>11.Online Delivery vs Rating (partially visible in the code):</h2>
-
-Restaurants offering online delivery may show some correlation with better ratings, though full insight is not visible in the file.
-
+<ul>
+  <li>Restaurants offering online delivery may show some correlation with better ratings, though full insight is not visible in the file.</li>
+</ul>
